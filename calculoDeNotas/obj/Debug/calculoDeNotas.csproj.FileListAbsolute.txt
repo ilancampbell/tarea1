@@ -1,0 +1,8 @@
+C:\Users\ilanc\source\repos\calculoDeNotas\calculoDeNotas\bin\Debug\calculoDeNotas.exe.config
+C:\Users\ilanc\source\repos\calculoDeNotas\calculoDeNotas\bin\Debug\calculoDeNotas.exe
+C:\Users\ilanc\source\repos\calculoDeNotas\calculoDeNotas\bin\Debug\calculoDeNotas.pdb
+C:\Users\ilanc\source\repos\calculoDeNotas\calculoDeNotas\obj\Debug\calculoDeNotas.csproj.AssemblyReference.cache
+C:\Users\ilanc\source\repos\calculoDeNotas\calculoDeNotas\obj\Debug\calculoDeNotas.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilanc\source\repos\calculoDeNotas\calculoDeNotas\obj\Debug\calculoDeNotas.csproj.CoreCompileInputs.cache
+C:\Users\ilanc\source\repos\calculoDeNotas\calculoDeNotas\obj\Debug\calculoDeNotas.exe
+C:\Users\ilanc\source\repos\calculoDeNotas\calculoDeNotas\obj\Debug\calculoDeNotas.pdb
